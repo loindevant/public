@@ -1,11 +1,12 @@
 # Manuel de Mica
 
-![](2023-08-26%20DSCF0181%201.png)
-
+![](portrait.png)
 ## Fiche technique
+
 | Nom | Race | Naissance | Passeport et vaccins |
 | --- | --- | --- | --- |
 | Mica | Labrador | 8 juin 2023 | Voir plus bas|
+
 ## Urgence
 
 - Vétérinaire de garde (24h/24):  [0900 00 25 25](tel:0900002525 ) 
