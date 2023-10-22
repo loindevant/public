@@ -54,7 +54,7 @@
 - ...est surexcitée:
 	- Rester calme
 	- L'ignorer, donc vaquer à ses occupations comme si de rien n'était, sans la regarder ni lui parler
-	- Si elle saute contre nous attrapant les habits, lui opposer un très ferme et fort "Schtt! Hé!"
+	- Si elle saute contre nous en attrapant les habits, lui opposer un très ferme et fort "Schtt! Hé!"
 	- Si nécessaire, ne pas hésiter à l'empoigner par le collet et l'enfermer dans sa cage ou dans une chambre (ça fait un bon moment qu'il n'a plus fallu en arriver là)
 - ...s'éloigne et ne répond pas au rappel, en promenade:
 	- S'accroupir et l'encourager en lui tendant la main comme si on lui tendait une friandise, même si on n'en a pas
