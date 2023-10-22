@@ -2,13 +2,11 @@
 
 ![](portrait.png)
 
-## Fiche technique
+## Qui suis-je?
 
-| Nom | Race | Naissance | Passeport et vaccins |
-| --- | --- | --- | --- |
-| Mica | Labrador | 8 juin 2023 | Voir plus bas|
+>Waf! Je m'appelle Mica. Je suis une femelle labrador née le 8 juin 2023 à Beauchamps-sur-Huillard, une petite localité française située entre Montargis et Orléans, dans le Loiret.
 
-## Urgence
+## Urgences
 
 - Vétérinaire:
 	- Heures de bureau: Dr Andreas Philipson, Seftingenstrasse 10b, 3007 Berne, [+41 31 371 14 71](tel:+41313711471)
