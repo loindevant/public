@@ -1,5 +1,5 @@
 # Oratorio de Noël
-Nous avons le plaisir de vous y inviter. Voici d'abord le flyer:
-![](flyer.pdf)
 
-Voici ensuite le lien vers la billetterie:
+Nous avons le plaisir de vous y inviter. Voici d'abord le [flyer (2 pages)](flyer.pdf), et voici ensuite le lien vers la billetterie.
+
+![](flyer.pdf)
