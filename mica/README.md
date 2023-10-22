@@ -11,7 +11,7 @@
 ## Urgence
 
 - Vétérinaire:
-	- Heures de bureau: Dr Andreas Philipson, Seftingenstrass 10b, 3007 Berne, [+41 31 371 14 71](tel:+41313711471)
+	- Heures de bureau: Dr Andreas Philipson, Seftingenstrasse 10b, 3007 Berne, [+41 31 371 14 71](tel:+41313711471)
 	- Hors des heures de bureau: Garde vétérinaire (24h/24):  [0900 00 25 25](tel:0900002525 ) 
 - Mélanie: [+ 41 79 711 27 70](tel:+41797112770)
 - Arnaud: [+ 41 79 450 01 65](tel:+41794500165)
@@ -48,11 +48,21 @@
 	- Jouets
 	- Aliments à mâcher (os artificiels etc.)
 
-## Trucs si elle s'ennuie
+## Trucs si elle...
 
-- Lui donner un os artificiel à ronger
-- Mettre quelques goodies dans sa boule de caoutchouc orange
-- Si possible, la sortir en forêt pour qu'elle se dépense
+
+- ...est surexcitée:
+	- Rester calme
+	- L'ignorer, donc vaquer à ses occupations comme si de rien n'était, sans la regarder ni lui parler
+	- Si elle saute contre nous attrapant les habits, lui opposer un très ferme et fort "Schtt! Hé!"
+	- Si nécessaire, ne pas hésiter à l'empoigner par le collet et l'enfermer dans sa cage ou dans une chambre (ça fait un bon moment qu'il n'a plus fallu en arriver là)
+- ...s'éloigne et ne répond pas au rappel, en promenade:
+	- S'accroupir et l'encourager en lui tendant la main comme si on lui tendait une friandise, même si on n'en a pas
+	- Si elle a quitté notre champ de vision, aller sans courir dans la direction où on l'a vue en dernier et l'appeler
+- ...s'ennuie:
+	- Lui donner un os artificiel à ronger
+	- Mettre quelques goodies dans sa boule de caoutchouc orange
+	- Si possible, la sortir en forêt pour qu'elle se dépense
 
 ## Transports publics
 
