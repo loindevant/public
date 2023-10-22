@@ -19,7 +19,7 @@
 - Le matin 200g de croquettes après le pipi-caca du matin
 - Le soir 200g de croquettes vers 18h
 - Ne pas la nourrir entre ces repas SVP (à part les petites récompenses lors des moments d'éducation)
-- Veiller à ce qu'il y aie toujours de l'eau dans sa gamelle
+- Veiller à ce qu'il y ait toujours de l'eau dans sa gamelle
 
 ## Pipi caca
 
@@ -44,7 +44,7 @@
 - A la maison:
 	- Couverture
 	- Jouets
-	- Aliments à macher (os artificiels etc.)
+	- Aliments à mâcher (os artificiels etc.)
 
 ## Trucs si elle s'ennuie
 
