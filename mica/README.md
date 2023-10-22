@@ -10,7 +10,9 @@
 
 ## Urgence
 
-- Vétérinaire de garde (24h/24):  [0900 00 25 25](tel:0900002525 ) 
+- Vétérinaire:
+	- Heures de bureau: Dr Andreas Philipson, Seftingenstrass 10b, 3007 Berne, [+41 31 371 14 71](tel:+41313711471)
+	- Hors des heures de bureau: Garde vétérinaire (24h/24):  [0900 00 25 25](tel:0900002525 ) 
 - Mélanie: [+ 41 79 711 27 70](tel:+41797112770)
 - Arnaud: [+ 41 79 450 01 65](tel:+41794500165)
 
