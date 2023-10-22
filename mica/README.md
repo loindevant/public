@@ -46,8 +46,7 @@
 	- Jouets
 	- Aliments à mâcher (os artificiels etc.)
 
-## Trucs si elle...
-
+## Les trucs si Mica...
 
 - ...est surexcitée:
 	- Rester calme
