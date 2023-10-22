@@ -1,4 +1,4 @@
-# Manuel de Mica
+# S'occuper de Mica
 
 ![](portrait.png)
 
