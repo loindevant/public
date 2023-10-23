@@ -16,8 +16,8 @@
 
 ## Nourriture
 
-- Le matin: 2 gobelets de croquettes après le pipi-caca du matin
-- Le soir: 2 gobelets de croquettes vers 18h
+- Le matin: 200g soit 2 gobelets de croquettes après le pipi-caca du matin
+- Le soir: 200g soit 2 gobelets de croquettes vers 18h
 - Ne pas la nourrir entre ces repas SVP (à part les petites récompenses lors des moments d'éducation)
 - Veiller à ce qu'il y ait toujours de l'eau dans sa gamelle
 
