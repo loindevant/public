@@ -4,7 +4,7 @@
 
 ## Qui suis-je?
 
->Waf! Je m'appelle Mica. Je suis une femelle labrador née le 8 juin 2023 à Beauchamps-sur-Huillard, une petite localité française située entre Montargis et Orléans, dans le Loiret.
+>Ouaf! Je m'appelle Mica. Je suis une femelle labrador née le 8 juin 2023 à Beauchamps-sur-Huillard, une petite localité française située entre Montargis et Orléans, dans le Loiret.
 
 ## Urgences
 
