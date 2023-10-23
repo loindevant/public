@@ -56,7 +56,7 @@
 - ...s'éloigne et ne répond pas au rappel, en promenade:
 	- S'accroupir et l'encourager en lui tendant la main comme si on lui proposait une friandise, même si on n'en a pas;
 	- Si elle a quitté notre champ de vision, aller sans courir dans la direction où on l'a vue en dernier et l'appeler.
-- ...s'ennuie:
+- ...s'ennuie (et m'agace):
 	- Lui donner un os artificiel à ronger;
 	- Mettre quelques goodies dans sa boule de caoutchouc orange;
 	- Si possible, la sortir en forêt pour qu'elle se dépense.
