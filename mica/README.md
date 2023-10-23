@@ -1,6 +1,6 @@
 # S'occuper de Mica
 
-![](portrait.png)
+![](portrait_lq.png)
 
 ## Qui suis-je?
 
