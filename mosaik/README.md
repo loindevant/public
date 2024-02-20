@@ -1,0 +1,5 @@
+[Basis](basisstufe.pdf)
+[Eltern](elterninformationen-volksschule-franzoesisch-d-kurzfassung.pdf)
+[eval_SOL_mosaik_2019_FR](eval_SOL_mosaik_2019_FR.pdf)
+[FAQ_mosaikmodell_FR](FAQ_mosaikmodell_FR.pdf)
+[mosaikschule_bz_artikel_FR](mosaikschule_bz_artikel_FR.pdf)
