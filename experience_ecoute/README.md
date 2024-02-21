@@ -11,6 +11,26 @@
 
 # Pièces
 
+Pièce A:
+![Pièce A](piece_a.m4a)
+
+Pièce B:
+![Pièce B](piece_b.m4a)
+
+Pièce C:
+![Pièce C](piece_c.m4a)
+
+Pièce D:
+![Pièce D](piece_d.m4a)
+
+Pièce E:
+![Pièce E](piece_e.m4a)
+
+Pièce F:
+![Pièce F](piece_f.m4a)
+
+# Pièces
+
 [Pièce A](piece_a.m4a)
 [Pièce B](piece_b.m4a)
 [Pièce C](piece_c.m4a)
