@@ -8,6 +8,7 @@
 	- Comment s'apparente-t-elle avec les pièces déjà entendues? Notez-vos commentaires dans la ou les cellules qui conviennent.
 3. Ecoutez la pièce D, puis E, puis F
 	- Idem C
+
 # Pièces
 
 [Pièce A](piece_a.m4a)
