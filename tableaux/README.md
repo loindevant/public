@@ -1,5 +1,5 @@
 # Les tableaux de grand-papa
-## ...et quelques autres
+## ...et de quelques autres
 ![](tableau1.jpg)
 ![](tableau2.jpg)
 ![](tableau3.jpg)
